@@ -4,7 +4,7 @@
 Ce dépôt contient l'ISO pour WS2022 SERVER EVAL x64FRE fr-fr. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
 ## Téléchargement
-Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`WS2022_SERVER_EVAL_x64FRE_fr-fr`](https://github.com/PassAndSecure/Windows_11_Eval/releases/download/WS2022_SERVER_EVAL_x64FRE_fr-fr/WS2022_SERVER_EVAL_x64FRE_fr-fr) pour le télécharger.
+Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`WS2022_SERVER_EVAL_x64FRE_fr-fr`](https://go.microsoft.com/fwlink/p/?LinkID=2195280&clcid=0x40c&culture=fr-fr&country=FR) pour le télécharger.
 
 ## Utilisation
 L'ISO est fourni tel quel pour faciliter l'installation de WS2022. Vous pouvez l'utiliser pour créer une clé USB bootable ou pour démarrer une machine virtuelle.
