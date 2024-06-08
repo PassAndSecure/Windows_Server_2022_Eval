@@ -1,7 +1,7 @@
 # WS2022_SERVER_EVAL_x64FRE_fr-fr ISO
 
 ## À propos
-Ce dépôt contient l'ISO pour WS2022 SERVER EVAL x64FRE fr-fr. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
+Ce dépôt contient l'ISO pour WS2022 SERVER EVAL x64FRE fr-fr. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Windows.
 
 Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
 
